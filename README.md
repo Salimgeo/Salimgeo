@@ -35,4 +35,4 @@ My name is Alexander.
 - 💬 Ask me about possibilities of functional **map design**. Everytime there are more options.
 - If the map looks nice it doesn't mean it's easy to read! If the map is easy to read but is not attractive to readers, general public will not use it!
 
-- ⚡ Other hobbies: playing drums, juggling, hiking, playing geography games
+- ⚡ Other hobbies: drums, juggling, hiking, geography games
