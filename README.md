@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Alexander.
+- 🏫 I study cartography and geoinformatics in Olomouc, Czechia (Palackého University, Faculty of Science)
+- More important is that I like cartography and functional design and I'm not studying because I want a title.
+
+
+- 🌱 what I can do:
+  - ArcGIS Pro 3.0
+  - QGIS 3.34
+  - data visualization (thematic cartography)
+  - geoprocessing tools
+  - data vectorization (including georeferencing)
+  - geolocating
+  - DEMs (digital elevation models)
+  - work with OSM data
+  - ArcGIS Model Builder, QGIS Model Designer
+  - basics of Python, SQL
+  - for map design finalization: Inkscape, GIMP
+ 
+- 💬 Ask me about possibilities of functional **map design**. Everytime there are more options.
+- If the map looks nice it doesn't mean it's easy to read! If the map is easy to read but is not attractive to readers, general public will not use it!
+
+- ⚡ Other hobbies: playing drums, juggling, hiking
