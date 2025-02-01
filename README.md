@@ -29,8 +29,8 @@ My name is Alexander.
   - DEMs (digital elevation models)
   - work with OSM data
   - ArcGIS Model Builder, QGIS Model Designer
-  - basics of Python, SQL
   - for map design finalization: Inkscape, GIMP
+  - basics of Python, SQL
  
 - 💬 Ask me about possibilities of functional **map design**. Everytime there are more options.
 - If the map looks nice it doesn't mean it's easy to read! If the map is easy to read but is not attractive to readers, general public will not use it!
