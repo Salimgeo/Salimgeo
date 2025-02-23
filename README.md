@@ -28,7 +28,7 @@ My name is Alexander.
   - geolocating
   - DEMs (digital elevation models)
   - work with OSM data
-  - ArcGIS Model Builder, QGIS Model Designer
+  - ArcGIS Pro Model Builder, QGIS Model Designer
   - for map design finalization: Inkscape, GIMP
   - basics of Python, SQL
  
