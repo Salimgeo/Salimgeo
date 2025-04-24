@@ -26,7 +26,7 @@ My name is Alexander.
   - geolocating
   - work with OSM data
   - DEMs (digital elevation models)
-  - Network Analysises
+  - Network Analyses
   - ArcGIS Pro Model Builder, QGIS Model Designer
 
 - 🔧 SW and language knowledge
