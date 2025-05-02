@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Alexander.
-- 🏫 I study cartography and geoinformatics in Olomouc, Czechia (Palackého University, Faculty of Science)
-- More important is that I like cartography and functional design and I'm not studying because I want a title.
+- 🏫 I studied cartography and geoinformatics mostly in Olomouc, Czechia (Palackého University, Faculty of Science).
+- More important is that I like cartography and functional design. I found out no university will teach you that.
 
 
 - 🌱 what I can do:
